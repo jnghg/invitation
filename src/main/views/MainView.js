@@ -2,7 +2,9 @@ import React from "react";
 
 class MainView extends React.PureComponent {
   render() {
-    return <p>Hello</p>;
+    return (
+      <h1>ㅇㅅㅇ</h1>
+    );
   }
 }
 
