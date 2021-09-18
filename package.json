@@ -1,6 +1,6 @@
 {
-  "homepage": "http://jnghg.github.io/mobile_invitation",
-  "name": "mobile_invitation",
+  "homepage": "http://jnghg.github.io/blog-front",
+  "name": "blog-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
