@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,WACI,eAAgB,CAChB,oBAAqB,CACrB,oEAA8C,CAC9C,6BAA8B,CAC9B,YACJ","file":"main.51e24b07.chunk.css","sourcesContent":["\n.titleView {\n    font-size: '4em';\n    font-weight: 'normal';\n    background-image: url('./images/wedding2.png');\n    background-size: 1200px 1000px;\n    height:700px\n}"]}
